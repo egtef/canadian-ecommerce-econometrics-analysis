@@ -22,8 +22,13 @@ This project analyzes the relationship between Canadian retail e-commerce sales 
 
 
 ### Statistical Methods
-Ordinary Least Squares (OLS) Regression 
-- F-Test for Joint Significance - Breusch-Pagan Test for Heteroskedasticity - Durbin-Watson Test for Autocorrelation - Robust Standard Errors (HC0) - Log-Log Elasticity Modeling - Fixed Effects Regression
+- Ordinary Least Squares (OLS) Regression 
+- F-Test for Joint Significance
+- Breusch-Pagan Test for Heteroskedasticity
+- Durbin-Watson Test for Autocorrelation
+- Robust Standard Errors (HC0)
+- Log-Log Elasticity Modelling
+- Fixed Effects Regression
 
 <h3>Key Visualizations</h3>
 
@@ -52,7 +57,8 @@ Ordinary Least Squares (OLS) Regression
 </table>
 
 ### Tools & Skills
-Python, Pandas, Data Cleaning, Exploratory Data Analysis, Data Visualization
+R, Econometrics, OLS Regression, Time-Series Analysis, Statistical Modelling, Data Visualization, Hypothesis Testing, Robust Standard Errors, Fixed Effects Models
+
 
 ### Note
-This project simulates real-world retail analytics used for marketing strategy and product performance optimization.
+This project demonstrates the application of econometric and time-series analysis techniques commonly used in economic research, business intelligence, and data-driven decision-making to evaluate the relationship between macroeconomic indicators and retail e-commerce performance.
