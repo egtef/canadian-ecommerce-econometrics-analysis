@@ -36,11 +36,11 @@ This project analyzes the relationship between Canadian retail e-commerce sales 
   <tr>
     <td align="center">
       <img src="images/d2.png" width="350"/>
-      <br><b>Sales Trend Analysis</b>
+      <br><b>Residuals plot to detect heteroskedasticity</b>
     </td>
     <td align="center">
       <img src="images/d3.png" width="350"/>
-      <br><b>All vs Returning Customers</b>
+      <br><b>Residuals overtime</b>
     </td>
   </tr>
 
