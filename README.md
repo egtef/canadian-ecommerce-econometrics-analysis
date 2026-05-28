@@ -35,25 +35,16 @@ This project analyzes the relationship between Canadian retail e-commerce sales 
 <table>
   <tr>
     <td align="center">
-      <img src="clv_update1.png" width="350"/>
+      <img src="images/d2.png" width="350"/>
       <br><b>Sales Trend Analysis</b>
     </td>
     <td align="center">
-      <img src="clv_update2.png" width="350"/>
+      <img src="images/d3.png" width="350"/>
       <br><b>All vs Returning Customers</b>
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <img src="clv_update3.png" width="350"/>
-      <br><b>Item Popularity Analysis</b>
-    </td>
-    <td align="center">
-      <img src="clv_update4.png" width="350"/>
-      <br><b>Top vs Low Value Segments</b>
-    </td>
-  </tr>
+ 
 </table>
 
 ### Tools & Skills
