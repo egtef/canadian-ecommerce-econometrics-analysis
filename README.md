@@ -8,7 +8,8 @@ This project analyzes the relationship between Canadian retail e-commerce sales 
 
 ### Highlights
 - Analyzed 107 monthly observations of Canadian economic and retail e-commerce data
-- Built and evaluated multiple OLS regression models in R - Conducted hypothesis testing, heteroskedasticity testing, and autocorrelation diagnostics - Applied robust standard errors (HC0/FGLS) to improve model reliability
+- Built and evaluated multiple OLS regression models in R
+- Conducted hypothesis testing, heteroskedasticity testing, and autocorrelation diagnostics
 - Developed log-log elasticity models to measure economic sensitivity
 - Implemented year fixed effects to control for time-specific shocks and macroeconomic changes
 - Visualized model diagnostics and economic trends using statistical plots and time-series analysis
